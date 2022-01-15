@@ -1,1 +1,1 @@
-brew "libssl-dev"
+brew "filosottile/musl-cross/musl-cross"
